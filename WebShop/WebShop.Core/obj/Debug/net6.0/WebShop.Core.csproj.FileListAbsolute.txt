@@ -1,0 +1,13 @@
+D:\SoftUni\source\Test\WebShop\WebShop.Core\bin\Debug\net6.0\Data\products.json
+D:\SoftUni\source\Test\WebShop\WebShop.Core\bin\Debug\net6.0\WebShop.Core.deps.json
+D:\SoftUni\source\Test\WebShop\WebShop.Core\bin\Debug\net6.0\WebShop.Core.dll
+D:\SoftUni\source\Test\WebShop\WebShop.Core\bin\Debug\net6.0\WebShop.Core.pdb
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\WebShop.Core.csproj.AssemblyReference.cache
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\WebShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\WebShop.Core.AssemblyInfoInputs.cache
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\WebShop.Core.AssemblyInfo.cs
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\WebShop.Core.csproj.CoreCompileInputs.cache
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\WebShop.Core.dll
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\refint\WebShop.Core.dll
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\WebShop.Core.pdb
+D:\SoftUni\source\Test\WebShop\WebShop.Core\obj\Debug\net6.0\ref\WebShop.Core.dll
