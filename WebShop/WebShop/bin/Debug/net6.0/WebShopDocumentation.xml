@@ -15,6 +15,7 @@
             List all products
             </summary>
             <returns></returns>
+            [AllowAnonymus]
         </member>
     </members>
 </doc>
